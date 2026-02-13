@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.custom-cursor { 
+  cursor: url('/cursor-img.png'), auto; 
+};
+
+.dot-cursor { 
+  cursor: url('/cursor-dot.png'), auto; 
+};
+
+.dot-cursor-footer { 
+  cursor: url('/dot-cursor-footer.png'), auto; 
+};
+
